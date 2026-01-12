@@ -78,3 +78,12 @@ These insights can help businesses optimize pricing strategies, focus on high-va
 ├── dataset/
 │   └── sales_data_sample.csv
 └── README.md
+
+**👤 Author**
+
+Natnael Amenu
+MSc Data Science & Organizational Behavior
+📍 France
+🔗 LinkedIn: https://www.linkedin.com/in/natnael-berhanu-amenu-052a70235/
+
+🔗 Portfolio: https://www.datascienceportfol.io/natnaelamenu328
